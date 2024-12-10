@@ -18,4 +18,5 @@ For more specific introduction either read the script or run it.
 
 | Script name | Description |
 | ----------- | ----------- |
-| unique_hosts.sh | The Script will scrape the total hosts of an AAP Instance and returns the number of all hosts and unique hosts
+| unique_hosts.sh | The Script will scrape the total hosts of an AAP Instance and returns the number of all hosts and unique hosts |
+| unique_hosts_and_groups.sh | The Script will scrape the total hosts of an AAP Instance and displays host vars, group vars and inventory vars (all vars) |
